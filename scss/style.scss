@@ -1797,6 +1797,7 @@ margin-right: 0;
   }
   .work__text{
 	text-align:left;
+	display: block;
   }
   #tab-btn2-1:checked~#content2-1{
 	display: flex;
@@ -1963,6 +1964,9 @@ margin-right: 0;
 }
 .custom-checkbox + label {
 	font-size: 14px;
+}
+#tab-btn2-1:checked ~ #content2-1, #tab-btn2-2:checked ~ #content2-2, #tab-btn2-3:checked ~ #content2-3, #tab-btn2-4:checked ~ #content2-4, #tab-btn2-5:checked ~ #content2-5 {
+	padding: 0;
 }
 }
 @media (max-width: 394px){
