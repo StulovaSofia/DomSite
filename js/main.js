@@ -3,24 +3,29 @@ $(function () {
 		$('.menu__list').toggleClass('active');
 	});
 	$('.reviews__slider').slick({
-		arrows: false,
+		arrows: true,
 		slidesToShow: 3,
-		dots: true,
-		infinite: false,
-		// responsive: [
-		// 	{
-		// 		breakpoint: 841,
-		// 		settings: {
-		// 			slidesToShow: 2,
-		// 		}
-		// 	},
-		// 	{
-		// 		breakpoint: 601,
-		// 		settings: {
-		// 			slidesToShow: 1,
-		// 		}
-		// 	},
-		// ]
+		responsive: [
+			{
+				breakpoint: 1240,
+				settings: {
+					slidesToShow: 1,
+					arrows: false,
+				}
+			},
+			// 	{
+			// 		breakpoint: 601,
+			// 		settings: {
+			// 			slidesToShow: 1,
+			// 		}
+			// 	},
+		]
 	});
-
+	$('.cases__list, .cases__items').slick({
+		arrows: false,
+		dots: true,
+		fade: true,
+		autoplay: true,
+		autoplaySpeed: 2000,
+	});
 });
