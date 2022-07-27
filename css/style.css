@@ -1782,7 +1782,7 @@ button#slick-slide-control10 {
     text-align: center;
   }
   .work__text {
-    text-align: justify;
+    text-align: left;
   }
   #tab-btn2-1:checked ~ #content2-1 {
     display: flex;
