@@ -205,27 +205,27 @@ a {
   border-radius: 100px;
 }
 .header__down-button--1 {
-  background: #FF5900;
+  background: #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   margin-right: 32px;
   transition: all 0.3s;
 }
 .header__down-button--1:hover {
-  background: #CA4600;
+  background: #ca4600;
 }
 .header__down-button--2 {
   background: rgba(255, 255, 255, 0.2);
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   transition: all 0.3s;
 }
 .header__down-button--2:hover {
-  border: 1px solid #FF5900;
+  border: 1px solid #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
-  color: #FF5900;
+  color: #ff5900;
 }
 
 .menu {
@@ -234,7 +234,7 @@ a {
   flex-direction: row;
   align-items: center;
   min-height: 80px;
-  background: #FFFFFF;
+  background: #ffffff;
   border-width: 1px 0px;
   border-style: solid;
   border-color: rgba(51, 51, 51, 0.1);
@@ -339,7 +339,7 @@ a {
   font-weight: 800;
 }
 .packages__button {
-  border: 1px solid #FF5900;
+  border: 1px solid #ff5900;
   border-radius: 100px;
   background-color: transparent;
   padding: 16px 69px;
@@ -382,7 +382,7 @@ a {
 .line {
   width: 296px;
   height: 1px;
-  background: #FFFFFF;
+  background: #ffffff;
   opacity: 0.2;
 }
 
@@ -415,7 +415,7 @@ a {
 
 .services {
   padding: 120px 0 116px;
-  background: #F8F8F8;
+  background: #f8f8f8;
 }
 .services__list {
   display: grid;
@@ -569,7 +569,7 @@ a {
   font-size: 18px;
   line-height: 22px;
   padding: 20px 40px;
-  background: #FF5900;
+  background: #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   border-radius: 100px;
@@ -577,7 +577,7 @@ a {
   transition: all 0.3s;
 }
 .special__button:hover {
-  background: #CA4600;
+  background: #ca4600;
 }
 
 .about {
@@ -645,7 +645,7 @@ a {
   padding: 0 50px;
 }
 .reviews__button {
-  border: 1px solid #FF5900;
+  border: 1px solid #ff5900;
   border-radius: 100px;
   background-color: transparent;
   font-weight: 500;
@@ -661,10 +661,10 @@ a {
   transition: all 0.3s;
 }
 .reviews__button:hover {
-  border: 1px solid #FF5900;
+  border: 1px solid #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
-  color: #FF5900;
+  color: #ff5900;
 }
 
 .slick-arrow {
@@ -718,7 +718,7 @@ a {
   max-width: 360px;
 }
 .gift__button {
-  background: #FF5900;
+  background: #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   border-radius: 100px;
@@ -726,14 +726,14 @@ a {
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 38px;
   float: right;
   margin-right: 44px;
   transition: all 0.3s;
 }
 .gift__button:hover {
-  background: #CA4600;
+  background: #ca4600;
 }
 
 .application {
@@ -814,7 +814,7 @@ a {
   color: #212121;
 }
 .form__button {
-  background: #FF5900;
+  background: #ff5900;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   border-radius: 100px;
@@ -822,12 +822,12 @@ a {
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  color: #FFFFFF;
+  color: #ffffff;
   width: 250px;
   transition: all 0.3s;
 }
 .form__button:hover {
-  background: #CA4600;
+  background: #ca4600;
 }
 
 .custom-checkbox {
@@ -892,14 +892,14 @@ a {
 }
 .footer__sity span {
   line-height: 14px;
-  color: #FFFFFF;
-  border-bottom: 1px solid #FFFFFF;
+  color: #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 .footer__contacts-text {
   font-weight: 500;
   font-size: 14px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 12px;
 }
 .footer__company {
@@ -909,7 +909,7 @@ a {
   font-weight: 500;
   font-size: 14px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #ffffff;
   opacity: 0.5;
 }
 .footer__social {
@@ -926,7 +926,7 @@ a {
   font-weight: 500;
   font-size: 14px;
   line-height: 20px;
-  color: #FFFFFF;
+  color: #ffffff;
   opacity: 0.5;
   max-width: 210px;
   margin-bottom: 24px;
@@ -938,13 +938,13 @@ a {
   font-weight: 500;
   font-size: 14px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .footer__line {
   opacity: 0.1;
   width: 100%;
   height: 1px;
-  background: #FFFFFF;
+  background: #ffffff;
   margin-bottom: 20px;
 }
 .footer__down {
@@ -956,7 +956,7 @@ a {
   font-weight: 500;
   font-size: 12px;
   line-height: 14px;
-  color: #FFFFFF;
+  color: #ffffff;
   opacity: 0.3;
 }
 
@@ -1093,7 +1093,7 @@ a {
   cursor: pointer;
   position: relative;
   top: 1px;
-  background: #F4F4F4;
+  background: #f4f4f4;
 }
 
 .tabs > label:not(:first-of-type) {
@@ -1110,7 +1110,7 @@ a {
   padding: 120px 0;
 }
 .cases__item {
-  background: #F4F4F4;
+  background: #f4f4f4;
   padding: 40px;
 }
 .cases__up {
@@ -1219,7 +1219,7 @@ a {
   border: none;
   padding: 0;
   margin: 0;
-  background-color: #C4C4C4;
+  background-color: #c4c4c4;
   width: 500px;
   height: 2px;
 }
@@ -1329,7 +1329,7 @@ button#slick-slide-control10 {
 }
 
 .tabs2 > input[type=radio]:checked + label {
-  background: #FF5900;
+  background: #ff5900;
   border-right: 1px solid rgba(51, 51, 51, 0.2);
   color: #fff;
 }
@@ -1489,12 +1489,12 @@ button#slick-slide-control10 {
     background-color: #f5f5f5;
     padding-top: 17px;
     padding-bottom: 77px;
-    text-align: center;
     width: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    height: 55%;
   }
   .menu__item :hover {
     border-bottom: 0px solid #fff;
@@ -1504,7 +1504,7 @@ button#slick-slide-control10 {
   }
   .menu__item + .menu__item {
     padding-left: 0;
-    margin-top: 9px;
+    margin-top: 12px;
   }
   .menu__link-img {
     display: none;
@@ -1513,27 +1513,27 @@ button#slick-slide-control10 {
     border: none;
   }
   .submenu {
-    position: relative;
+    position: absolute;
     z-index: 4;
-    left: 0;
-    top: 0;
-    width: none;
-    min-height: 0;
-    padding: 0;
+    left: -30%;
+    top: 10%;
+    width: 352px;
+    min-height: 213px;
+    padding: 20px 10px 15px;
     margin-top: 14px;
-    background: transparent;
-    border-radius: 0;
-    box-shadow: none;
     box-sizing: border-box;
-    visibility: visible;
-    opacity: 1;
-    transform: none;
-    transition: 0;
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(-20%, 20px);
+    transition: 0.5s;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: column;
-    align-items: center;
     gap: 15px;
+    background: #f5f5f5;
+  }
+  .menu__item-1 {
+    text-align: center;
   }
   .topmenu > li:hover .submenu {
     visibility: visible;
@@ -1637,7 +1637,8 @@ button#slick-slide-control10 {
     max-width: 500px;
     text-align: center;
   }
-  .gift__text-1, .gift__text-2 {
+  .gift__text-1,
+.gift__text-2 {
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
@@ -1884,6 +1885,9 @@ button#slick-slide-control10 {
     line-height: 17px;
     margin-bottom: 29px;
   }
+  .submenu {
+    align-items: left;
+  }
   .header__down {
     min-height: 40vh;
     padding-bottom: 92px;
@@ -1894,7 +1898,8 @@ button#slick-slide-control10 {
   .header__up-text-1 {
     text-align: center;
   }
-  .header__down-button--1, .header__down-button--2 {
+  .header__down-button--1,
+.header__down-button--2 {
     font-size: 15px;
     line-height: 20px;
     padding: 14px 15px;
@@ -1951,8 +1956,44 @@ button#slick-slide-control10 {
   .custom-checkbox + label {
     font-size: 14px;
   }
-  #tab-btn2-1:checked ~ #content2-1, #tab-btn2-2:checked ~ #content2-2, #tab-btn2-3:checked ~ #content2-3, #tab-btn2-4:checked ~ #content2-4, #tab-btn2-5:checked ~ #content2-5 {
+  #tab-btn2-1:checked ~ #content2-1,
+#tab-btn2-2:checked ~ #content2-2,
+#tab-btn2-3:checked ~ #content2-3,
+#tab-btn2-4:checked ~ #content2-4,
+#tab-btn2-5:checked ~ #content2-5 {
     padding: 0;
+  }
+  .menu__list {
+    text-align: inherit;
+    padding-left: 10px;
+    align-items: flex-start;
+  }
+  .menu__item-1 {
+    text-align: left;
+  }
+  .submenu {
+    text-align: left;
+    align-items: flex-start;
+  }
+  .submenu {
+    position: absolute;
+    z-index: 4;
+    left: 0%;
+    top: 10%;
+    width: 352px;
+    min-height: 213px;
+    padding: 20px 10px 15px;
+    margin-top: 14px;
+    box-sizing: border-box;
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(-20%, 20px);
+    transition: 0.5s;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 15px;
+    background: #f5f5f5;
   }
 }
 @media (max-width: 394px) {
