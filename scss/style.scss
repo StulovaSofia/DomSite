@@ -2020,13 +2020,13 @@ button#slick-slide-control10 {
 	.menu-btn {
 		width: 40px;
 		height: 19px;
-		margin-top: 18px;
+		margin-top: 20px;
 	}
 	.header__up {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 10px 0;
+		padding: 6px 0;
 		min-height: auto;
 		gap: 0;
 	}
@@ -2037,8 +2037,8 @@ button#slick-slide-control10 {
 	}
 	.header__logo-img {
 		position: absolute;
-		left: 100px;
-		top: 4px;
+		left: 110px;
+		top: 6px;
 	}
 }
 @media (max-width: 394px) {
@@ -2055,5 +2055,8 @@ button#slick-slide-control10 {
 	}
 	.menu__list {
 		padding-top: 180px;
+	}
+	.header__logo-img {
+		left: 100px;
 	}
 }
