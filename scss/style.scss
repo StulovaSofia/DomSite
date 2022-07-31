@@ -255,7 +255,7 @@ a {
 .submenu {
 	position: absolute;
 	z-index: 4;
-	left: 80%;
+	left: 65%;
 	top: 100%;
 	width: 352px;
 	min-height: 213px;
@@ -272,11 +272,13 @@ a {
 	flex-direction: column;
 	gap: 15px;
 }
-
+.btn {
+	background-color: transparent;
+}
 .topmenu > li:hover .submenu {
 	visibility: visible;
 	opacity: 1;
-	transform: translate(-50%, 0);
+	transform: translate(-40%, 0);
 	border-bottom: none;
 }
 .submenu a {
@@ -658,9 +660,6 @@ a {
 
 .reviews {
 	padding-bottom: 120px;
-	&__inner {
-	}
-
 	&__slider {
 		padding: 0 50px;
 	}
@@ -1539,13 +1538,17 @@ button#slick-slide-control10 {
 		flex-direction: column;
 		gap: 15px;
 		background: #f5f5f5;
+		text-align: left;
+	}
+	.btn {
+		background-color: transparent;
 	}
 	.menu__item-1 {
 		text-align: center;
 	}
 	.topmenu > li:hover .submenu {
-		visibility: visible;
-		opacity: 1;
+		visibility: hidden;
+		opacity: 0;
 		transform: translate(0%, 0);
 	}
 	.menu__list.active {
